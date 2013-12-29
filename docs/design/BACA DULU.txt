@@ -1,6 +1,0 @@
-semua dokumen terkait desain ditaruh disini misal:
-- rancangan database (ERD) --> sudah
-- rancangan user interface
-- class diagram --> sudah
-- sequence diagram --> sudah
-- activity diagram
