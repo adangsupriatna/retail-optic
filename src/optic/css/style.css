@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font: 0.9em Tahoma, Verdana, Arial;
+	line-height:172%;
+	background: #ddd;
+}
+
+#container{
+	width: 1000px;
+	padding: 25px;
+	background: #fff;
+	margin: 100px auto 0 auto;
+}
+
+h4{
+	margin: 0;
+}
+
+ul{
+	padding: 0;
+}
+
+ul li{
+	display: inline-block;
+	padding: 15px;
+	list-style: none;
+}
+a{	
+	color:#00F;
+	text-decoration:none;
+}

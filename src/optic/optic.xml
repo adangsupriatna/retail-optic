@@ -1,0 +1,28 @@
+<dataset>      
+ <table name="tstaff">
+  <column>idStaff</column>
+  <column>namaStaff</column>
+  <column>username</column>
+  <column>password</column>
+  <column>email</column>
+  <column>email_code</column>
+  <column>time</column>
+  <column>confirmed</column>
+  <column>ip</column>
+  <column>noKTP</column>
+  <column>noTelepon</column>
+  <row>
+   <value>1</value>
+   <value>Adang Supriatna</value>
+   <value>admin</value>
+   <value>f865b53623b121fd34ee5426c792e5c33af8c227</value>
+   <value>adang.supriatna@gmail.com</value>
+   <value>9871fd6f0fc710452717d5ec0443190171bc3b32</value>
+   <value>1388165403</value>
+   <value>1</value>
+   <value>::1</value>
+   <value></value>
+   <value></value>
+  </row>
+ </table>
+</dataset>
